@@ -17,6 +17,13 @@ The dataset contains a total of **594 samples** across three primary genera, wit
 | **Anopheles** | Kazeroon | 65 |
 | **Total** |  | **594** |
 
+
+## 🖼️ Sample Visualization
+
+Below is a sample representation of the dataset, illustrating the different viewing angles.
+
+![Mosquito Dataset Samples](/sample_mosquito.png)
+*Figure 1: Example of mosquito images from different angles.*
 ## 📸 Imaging Characteristics
 
 Unlike standard datasets that may rely on a single top-down view, this collection features:
